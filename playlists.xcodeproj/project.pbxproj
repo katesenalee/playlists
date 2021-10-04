@@ -41,7 +41,6 @@
 		A68FBF76270AF5EC003CB493 = {
 			isa = PBXGroup;
 			children = (
-				A68FBF94270B01EE003CB493 /* PlaylistView.swift */,
 				A68FBF81270AF5ED003CB493 /* playlists */,
 				A68FBF80270AF5ED003CB493 /* Products */,
 			);
@@ -58,6 +57,7 @@
 		A68FBF81270AF5ED003CB493 /* playlists */ = {
 			isa = PBXGroup;
 			children = (
+				A68FBF94270B01EE003CB493 /* PlaylistView.swift */,
 				A68FBF82270AF5ED003CB493 /* playlistsApp.swift */,
 				A68FBF84270AF5ED003CB493 /* ContentView.swift */,
 				A68FBF86270AF5F4003CB493 /* Assets.xcassets */,
